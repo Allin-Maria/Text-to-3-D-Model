@@ -1,0 +1,8 @@
+streamlit>=1.22.0
+numpy
+tqdm
+pythreejs
+streamlit-3d
+trimesh
+meshio
+aiofiles
